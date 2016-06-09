@@ -78,6 +78,11 @@ python cmd_line_sctcrseq.py
 Will give command line options
 
 
+to test the program we recommend either using your own single cell RNA sequencing data or downloading data such as at 
+
+http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1104129
+
+
 
  
 
