@@ -34,8 +34,9 @@ vidjildir="/path/to/vidjil/"
 
 lengthScript="/path/to/calc.median.read.length.pl"
 
-###Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
+###References:
 
+Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
 
 location for FASTA BLAST reference sequences downloadable from imgt.org - (needs to be changed manually)
 
@@ -57,8 +58,7 @@ mouseTRACblast="/path/to/TRAC.mouse.fa"
 mouseTRBCblast="/path/to/TRBC.mouse.fa"
 
 
-
-###location for Vidjil BLAST reference sequences in vidjil program -  (needs to be changed manually)
+location for Vidjil BLAST reference sequences in vidjil program -  (needs to be changed manually)
 
 humanVidjilRef="/path/to/tr_germline/human"
 
