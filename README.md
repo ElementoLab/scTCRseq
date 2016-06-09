@@ -1,6 +1,8 @@
 # scTCRseq
 ## Introduction
 
+For specific questions/problems please email David Redmond at: dar2042@mes.cornell.edu
+
 This project is an implementation of a pipeline for Single-cell RNAseq package for recovering TCR data in python
 
 [Github Project](https://github.com/ElementoLab/scTCRseq)
