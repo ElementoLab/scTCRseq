@@ -22,7 +22,7 @@ http://www.baseclear.com/genomics/bioinformatics/basetools/gapfiller
 ###Vidjil:
 https://github.com/vidjil/vidjil
 
-###And their accompanying paths need to be changed in the script cmd_line_sctcrseq.py:
+And their accompanying paths need to be changed in the script cmd_line_sctcrseq.py:
 
 seqTkDir="/path/to/seqtk/"
 
