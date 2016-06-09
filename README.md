@@ -1,7 +1,7 @@
 # scTCRseq
 ## Introduction
 
-For specific questions/problems please email David Redmond at: dar2042@mes.cornell.edu
+For specific questions/problems please email David Redmond at: dar2042@med.cornell.edu
 
 This project is an implementation of a pipeline for Single-cell RNAseq package for recovering TCR data in python
 
