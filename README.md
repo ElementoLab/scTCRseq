@@ -35,13 +35,22 @@ lengthScript="/path/to/calc.median.read.length.pl"
 ###Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
 
 location for FASTA BLAST reference sequences downloadable from imgt.org - NEEDS TO BE MANUALLY CHANGED
+
+
 humanTRAVblast="/path/to/TRAV.human.fa"
+
 humanTRBVblast="/path/to/TRBV.human.fa"
+
 humanTRACblast="/path/to/TRAC.human.fa"
+
 humanTRBCblast="/path/to/TRBC.human.fa"
+
 mouseTRAVblast="/path/to/TRAV.mouse.fa"
+
 mouseTRBVblast="/path/to/TRBV.mouse.fa"
+
 mouseTRACblast="/path/to/TRAC.mouse.fa"
+
 mouseTRBCblast="/path/to/TRBC.mouse.fa"
 
 
