@@ -55,8 +55,10 @@ mouseTRBCblast="/path/to/TRBC.mouse.fa"
 
 
 
-###location for Vidjil BLAST reference sequences in vidjil program -  NEEDS TO BE MANUALLY CHANGED
+###location for Vidjil BLAST reference sequences in vidjil program -  (needs to be changed manually)
+
 humanVidjilRef="/path/to/tr_germline/human"
+
 mouseVidjilRef="/path/to/tr_germline/mouse"
 
 
