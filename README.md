@@ -34,7 +34,7 @@ lengthScript="/path/to/calc.median.read.length.pl"
 
 ###Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
 
-location for FASTA BLAST reference sequences downloadable from imgt.org - NEEDS TO BE MANUALLY CHANGED
+location for FASTA BLAST reference sequences downloadable from imgt.org - (needs to be changed manually)
 
 
 humanTRAVblast="/path/to/TRAV.human.fa"
