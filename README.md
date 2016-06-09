@@ -71,11 +71,11 @@ We recommend running the pipeline on paired end fluidigm single cell RNA seq dat
 
 The usage is as follows:
 
-python cmd_line_sctcrseq.py --fastq1 FASTQ1 --fastq2 FASTQ2 --species human/mouse --outdir OUTPUT DIRECTORY --label OUTPUT LABEL
+####python cmd_line_sctcrseq.py --fastq1 FASTQ1 --fastq2 FASTQ2 --species human/mouse --outdir OUTPUT DIRECTORY --label OUTPUT LABEL
 
 Also running:
 
-python cmd_line_sctcrseq.py 
+####python cmd_line_sctcrseq.py 
 
 Will give command line options
 
