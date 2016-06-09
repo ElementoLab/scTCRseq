@@ -23,9 +23,13 @@ https://github.com/vidjil/vidjil
 ###And their accompanying paths need to be changed in the script cmd_line_sctcrseq.py:
 
 seqTkDir="/path/to/seqtk/"
+
 blastallDir="/path/to/blastall/"
+
 gapFillerDir="/path/to/GapFiller_v1-10_linux-x86_64/"
+
 vidjildir="/path/to/vidjil/"
+
 lengthScript="/path/to/calc.median.read.length.pl"
 
 ###Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
