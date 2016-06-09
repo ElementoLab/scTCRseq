@@ -65,7 +65,17 @@ mouseVidjilRef="/path/to/tr_germline/mouse"
 
 ## Example Command Line
 
-We recommend running the pipeline on paired end fluidigm single cell RNA seq data
+We recommend running the pipeline on paired end fluidigm single cell RNA seq data.
+
+the usage is as follows:
+
+python cmd_line_sctcrseq.py --fastq1 FASTQ1 --fastq2 FASTQ2 --species human/mouse --outdir OUTPUT DIRECTORY --label OUTPUT LABEL
+
+also running
+
+python cmd_line_sctcrseq.py 
+
+Will give command line options
 
 
 
