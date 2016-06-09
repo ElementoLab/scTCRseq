@@ -14,7 +14,7 @@ The pipeline needs for the following programs to be installed and the paths :
 https://github.com/lh3/seqtk
 
 ###Blastall:
-ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+http://mirrors.vbi.vt.edu/mirrors/ftp.ncbi.nih.gov/blast/executables/release/2.2.15/
 
 ###GapFiller:
 http://www.baseclear.com/genomics/bioinformatics/basetools/gapfiller
@@ -69,18 +69,18 @@ mouseVidjilRef="/path/to/tr_germline/mouse"
 
 We recommend running the pipeline on paired end fluidigm single cell RNA seq data.
 
-the usage is as follows:
+The usage is as follows:
 
 python cmd_line_sctcrseq.py --fastq1 FASTQ1 --fastq2 FASTQ2 --species human/mouse --outdir OUTPUT DIRECTORY --label OUTPUT LABEL
 
-also running
+Also running:
 
 python cmd_line_sctcrseq.py 
 
 Will give command line options
 
 
-to test the program we recommend either using your own single cell RNA sequencing data or downloading data such as at 
+To test the program we recommend either using your own single cell RNA sequencing data or downloading data such as at 
 
 http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1104129
 
