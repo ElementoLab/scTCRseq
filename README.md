@@ -34,7 +34,7 @@ vidjildir="/path/to/vidjil/"
 
 lengthScript="/path/to/calc.median.read.length.pl"
 
-###References:
+###Reference TCR sequences:
 
 Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
 
